@@ -2,4 +2,4 @@
 
 ## Report
 
-[![Paper Preview](docs/paper_preview.png)](docs/paper.pdf)
+[![Preview](/report.png)](report.pdf)
