@@ -1,6 +1,4 @@
 Εξαμηνιαία Εργασία για το μάθημα Βάσεις Δεδομένων, ΣΗΜΜΥ ΕΜΠ
 
-## Report
-
-[![Preview](report.pdf)
+[![Report]](report.pdf)
 
