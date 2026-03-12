@@ -2,4 +2,5 @@
 
 ## Report
 
-[![Preview](/report.png)](report.pdf)
+[![Preview](report.pdf)
+
